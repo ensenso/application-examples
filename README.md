@@ -28,10 +28,26 @@ Furthermore you need to install the **_Ensenso SDK_**, which you can download fr
                 <li>Basic Capturing</li>
                 <li>Using Projections</li>
                 <li>OpenCV: Detect Contours</li>
-            </ul> 
+            </ul>
         </td>
         <td>Beginner</td>
-    </tr> 
+    </tr>
+    <tr>
+        <td><img src="detect_sheet_metal/detect_sheet_metal.jpg" alt="2" width="300px"></td>
+        <td>
+            <b>Detect light-coloured metal parts</b><br>By thresholding height-data we detect light-coloured metal parts on a light-coloured background.
+            Check it out here: <a href="detect_sheet_metal/detect_sheet_metal.ipynb">detect_sheet_metal.ipynb</a>.
+        </td>
+        <td>
+            <ul>
+                <li>Workspace Calibration</li>
+                <li>Basic Capturing</li>
+                <li>Using Projections</li>
+                <li>OpenCV: Detect Contours</li>
+            </ul>
+        </td>
+        <td>Beginner</td>
+    </tr>
     <tr>
         <td><img src="check_tray_placement/check_trays.jpg" alt="2" width="300px"></td>
         <td>
@@ -44,7 +60,7 @@ Furthermore you need to install the **_Ensenso SDK_**, which you can download fr
                 <li>2-Way Thresholding</li>
                 <li>OpenCV: Connected Components</li>
                 <li>Naive Template Matching</li>
-            </ul> 
+            </ul>
         </td>
         <td>Intermediate</td>
     </tr>
